@@ -70,19 +70,7 @@
     color: #444343;
     /* margin-bottom: 50px ; */
 }
-/* 
-ul{
-    list-style: none;
-    display: flex;
-    width: 500px;
-}   */
-/* 
-.list{
 
-    margin: 1250px 800px ;  
-    width: 500px; 
-
-} */
 
 #o{
     margin: 1250px 800px ;  
@@ -126,10 +114,26 @@ ul{
     width: 500px;
 
 }
-/* .lists{
-    display: flex;
+
+.my-plan{
+    margin:1700px 800px;
+    font-weight: 700;
+    font-size: 65px;
+    width: 525px;
     
+}
 
-} */
+.skill-con{
+    display:flex;
+    gap: 30px;
+    /* justify-content: space-between; */
+    margin-top:1800px ;
+    /* width: 214px;
+    height: 197px; */
 
+}
+.skill-title{
+    margin: 110px 0px 0px 0px ;
+
+}
 
